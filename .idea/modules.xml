@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Flow_Control/Flow_Control.iml" filepath="$PROJECT_DIR$/Flow_Control/Flow_Control.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Language_Basics/Language_Basics.iml" filepath="$PROJECT_DIR$/Language_Basics/Language_Basics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Wipro_RVR.iml" filepath="$PROJECT_DIR$/Wipro_RVR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wipro.iml" filepath="$PROJECT_DIR$/Wipro.iml" />
     </modules>
   </component>
 </project>
