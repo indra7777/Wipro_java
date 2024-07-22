@@ -1,4 +1,6 @@
-public class SecondLastDigit{
+import java.util.Scanner;
+
+public class temp{
     public static void main(String[] args) {
         Scanner inputObj = new Scanner(System.in);
         int num = inputObj.nextInt();
@@ -10,6 +12,6 @@ public class SecondLastDigit{
         }
         num /= 10;
         int secondLastDigit = num % 10;
-        System.out.println(lastDigit);
+        System.out.println(secondLastDigit);
     }
 }
